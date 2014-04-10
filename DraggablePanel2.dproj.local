@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014/04/10 15:12:24.071,=C:\Users\Kumeuchi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/04/10 15:13:42.382,C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\fMain.pas=C:\Users\Kumeuchi\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/04/10 15:13:42.382,C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\fMain.dfm=C:\Users\Kumeuchi\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014/04/10 15:14:21.039,C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\DraggablePanel2.dproj=C:\Users\Kumeuchi\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2014/04/10 15:14:29.795,=C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\Unit1.pas</Transaction>
+    <Transaction>2014/04/10 15:15:26.601,C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\fChildFrm.dfm=C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\Unit1.dfm</Transaction>
+    <Transaction>2014/04/10 15:15:26.601,C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\fChildFrm.pas=C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\Unit1.pas</Transaction>
+    <Transaction>2014/04/10 15:20:59.200,=C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\Unit1.pas</Transaction>
+    <Transaction>2014/04/10 15:24:28.184,C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\plMoveResizePanel.pas=C:\Users\Kumeuchi\Documents\RAD Studio\Projects\DraggablePanel2\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

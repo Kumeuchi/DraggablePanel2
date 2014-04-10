@@ -1,0 +1,19 @@
+object formChild: TformChild
+  Left = 0
+  Top = 0
+  Caption = 'formChild'
+  ClientHeight = 568
+  ClientWidth = 927
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIChild
+  OldCreateOrder = False
+  Visible = True
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+end
